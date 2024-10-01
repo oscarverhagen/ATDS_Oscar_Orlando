@@ -1,0 +1,11 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment and dependency files
+env/
+venv/
+.env
