@@ -9,3 +9,7 @@ __pycache__/
 env/
 venv/
 .env
+
+# Ignore Mac OS fileds
+*.DS_Store
+.DS_Store
